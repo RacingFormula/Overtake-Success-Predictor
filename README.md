@@ -1,2 +1,3 @@
 # Overtake-Success-Predictor
- A machine learning tool to predict the likelihood of successful overtakes in motorsport based on race telemetry data.
+# Overview
+This script trains a Gradient Boosting Classifier using features like speed difference, track position, tyre difference, and DRS activation. It evaluates model performance with accuracy and classification metrics, enabling improved race strategy decisions.
